@@ -1,0 +1,15 @@
+int a, b, c;
+float d, e;
+a = 3 
+b = 5;
+c = 7;
+if ( a > b)
+{
+	c = a - b;
+	e = d - 2.5;
+}
+else
+{
+	d = e + 8.5;
+	b = a + c;
+}
